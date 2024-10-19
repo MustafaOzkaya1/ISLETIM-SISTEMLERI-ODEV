@@ -30,4 +30,4 @@ Aşağıda uygulamadan bazı ekran görüntülerini bulabilirsiniz:
 ![Ana Sayfa](https://github.com/MustafaOzkaya1/BILGISAYAR-AGLARI-ODEV/blob/main/uygulama_resimleri/IMG-20241019-WA0017.jpg)
 ![İçerik Detay Sayfası](https://github.com/MustafaOzkaya1/BILGISAYAR-AGLARI-ODEV/blob/main/uygulama_resimleri/IMG-20241019-WA0019.jpg)
 ![Karşılaştırma Sayfası](https://github.com/MustafaOzkaya1/ISLETIM-SISTEMLERI-ODEV/blob/main/uygulama_resimleri/IMG-20241019-WA0021.jpg)
-![Ayarlar Sayfası](https://github.com/MustafaOzkaya1/BILGISAYAR-AGLARI-ODEV/blob/main/uygulama_resimleri/IMG-20241019-WA0018.jpg)
+![Hakkında Sayfası](https://github.com/MustafaOzkaya1/ISLETIM-SISTEMLERI-ODEV/blob/main/uygulama_resimleri/IMG-20241019-WA0022.jpg)
